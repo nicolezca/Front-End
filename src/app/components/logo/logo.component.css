@@ -1,0 +1,12 @@
+/*logo de la cabecera*/
+.logo{
+    width: 30%;
+    height: 45px;
+    float: left;
+}
+
+.logo img{
+    width: 30%;
+    height: 45px;
+    margin-left: 50px;
+}

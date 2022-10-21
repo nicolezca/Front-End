@@ -1,0 +1,11 @@
+/*banner personal*/
+.banner{
+    width: 100%;
+    height: 404px;
+}
+
+.banner img{
+    width: 100%;
+    height: 404px;
+    opacity: 0.9;
+}

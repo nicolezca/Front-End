@@ -1,0 +1,109 @@
+/*progresos del programador*/
+
+.titulos-de-progresos{
+    width: 100%;
+    text-align: center;
+}
+
+.titulos-de-progresos img{
+    width: 10%;
+    margin-left: 45%;
+    margin-top: 5px;
+    box-shadow: 1px 1px 5px #303030b4;
+}
+
+.titulos-de-progresos h3{
+    font-size: 25px;
+    color:#55FFE2;
+    letter-spacing:5px;
+}
+
+.titulos-de-progresos hr{
+    width: 10%;
+    margin-left:45%;
+    margin-bottom: 5px;
+    height: 2px;
+    border: none;
+    background: #5E17EB;
+}
+
+#barras{
+    width: 5%;
+    position: relative;
+    left: 2.5%;
+    margin-bottom: 5px;  
+}
+/*barra de progreso parte tecnica*/
+.progreso-tecnico{
+    width: 45%;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.progreso-tecnico h4{
+    color:#55FFE2;
+    margin-left: 20px;
+    text-align: center;
+    letter-spacing:2px;
+}
+
+.progreso-tecnico hr{
+    width: 30%;
+    margin-top: 3px;
+    margin-left: 38%;
+    margin-bottom: 20px;
+    height: 2px;
+    border: none;
+    background: #5E17EB;
+}
+
+.progreso-tecnico h5,.progreso-profesional h5{
+    text-align: center;
+    font-size: 10px;
+    margin: 5px;
+    color: #d5ffff;
+    letter-spacing:2px;
+}
+
+.progres-bar{
+    width: 40%;
+    margin-left: 30%;
+    height: 7px;
+    background-color: #AE60E6;
+    box-shadow: 0 2px 3px #5E17EB ;
+}
+
+.progres{
+width: var(--w);
+background: #5E17EB;
+height: 7px;
+
+}
+/*barra de progreso parte profesional*/
+.progreso-profesional{
+width: 45%;
+float: right;
+}
+
+.progreso-profesional h4{
+    color:#55FFE2;
+    text-align: center;
+    letter-spacing:2px;
+}
+
+.progreso-profesional hr{
+    width: 35%;
+    margin-left: 33%;
+    margin-top: 3px;
+    margin-bottom: 20px;
+    height: 2px;
+    border: none;
+    background: #5E17EB;
+}
+
+.progreso-profesional h5{
+   text-align: center;
+   margin: 5px;
+   color: #d5ffff;
+   letter-spacing:2px;
+}
