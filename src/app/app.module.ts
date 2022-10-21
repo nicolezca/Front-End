@@ -8,7 +8,6 @@ import { SocialComponent } from './components/social/social.component';
 import { BannerComponent } from './components/banner/banner.component';
 import { AcercaDeMiComponent } from './components/acerca-de-mi/acerca-de-mi.component';
 import { SkillsComponent } from './components/skills/skills.component';
-import { ProgresoComponent } from './components/progreso/progreso.component';
 
 @NgModule({
   declarations: [
@@ -18,8 +17,7 @@ import { ProgresoComponent } from './components/progreso/progreso.component';
     SocialComponent,
     BannerComponent,
     AcercaDeMiComponent,
-    SkillsComponent,
-    ProgresoComponent
+    SkillsComponent
   ],
   imports: [
     BrowserModule

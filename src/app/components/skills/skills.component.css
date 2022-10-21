@@ -6,9 +6,11 @@
 }
 
 .titulos-de-progresos img{
-    width: 10%;
-    margin-left: 45%;
+    width: 5%;
+    height: 55px;
+    margin-left: 47.5%;
     margin-top: 5px;
+    border-radius: 100%;
     box-shadow: 1px 1px 5px #303030b4;
 }
 
